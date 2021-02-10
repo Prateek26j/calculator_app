@@ -3,5 +3,4 @@ Caluclator app
 
 Basic UI design 
 
-
-![](images/Screenshot 2021-02-10 at 1.29.56 PM.png)
+![image screenshot](https://github.com/Prateek26j/caluclatorapp/blob/master/images/Screenshot%202021-02-10%20at%201.29.56%20PM.png?raw=true)
