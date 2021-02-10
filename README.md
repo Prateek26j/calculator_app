@@ -1,4 +1,5 @@
-###Caluclator app
+Caluclator app
+
 
 Basic UI design 
 
